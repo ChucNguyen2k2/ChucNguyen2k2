@@ -35,3 +35,4 @@ Xem những video về cách làm món ăn ngon và tìm hiểu cách tối ưu 
 Mục tiêu nhỏ:
 
 Dần dần đạt được khả năng phân tích dữ liệu trong tất cả các lĩnh vực: từ thể thao, sức khỏe đến những con số "hậu trường" mà ít người để ý tới.
+Mong rằng bạn sẽ tìm thấy nhiều điều thú vị ở đây! Hãy kết nối và cùng tôi tạo ra những điều bất ngờ nhé! 🚀
