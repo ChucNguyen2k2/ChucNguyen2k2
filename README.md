@@ -20,8 +20,11 @@ Và... tôi sẽ luôn cố gắng để không bị "bỏ quên" trong việc h
 Kỹ năng của tôi:
 
 🐍 Python: Thích "bơi" trong các dòng mã để xử lý và phân tích dữ liệu.
+
 🖋️ SQL: Chuyên gia trong việc “truy vấn” các kho dữ liệu, tìm kiếm những thông tin thú vị từ các bảng dữ liệu phức tạp.
+
 📊 Power BI: Biến các con số khô khan thành những biểu đồ và báo cáo sinh động, dễ hiểu.
+
 📧 Liên hệ với tôi: Nếu bạn có bất kỳ câu hỏi nào về dữ liệu, công nghệ, hoặc muốn hợp tác trong các dự án thú vị, đừng ngần ngại email tôi tại: nvchuc.work@gmail.com. Chắc chắn tôi sẽ trả lời bạn nhanh chóng (vì tôi cũng hay thức khuya, không sợ muộn đâu 😄).
 
 Sở thích của tôi:
