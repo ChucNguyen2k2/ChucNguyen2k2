@@ -1,7 +1,10 @@
 
 👋 Chào mọi người, tôi là Nguyễn Văn Chúc!
+
 🎂 Sinh năm: 2002 (nếu bạn đang tò mò thì tôi vẫn là Gen Z đó, còn trẻ và đầy năng lượng!)
+
 📍 Quê quán: Hà Nội – nơi có những buổi sáng mưa phùn và những bát phở nóng hổi, khiến ai cũng phải lòng! (Nhưng đừng lo, tôi có thể phân tích mọi thứ ngoài món ăn ra 🤣)
+
 🧑‍💻 Định hướng nghề nghiệp: Tôi mong muốn trở một Data Analyst (nhà phân tích dữ liệu cực kì “chuyên nghiệp”, nhưng lại hay gặp vấn đề trong việc phân tích lý do tại sao ai cũng thấy cuộc sống thú vị hơn tôi nghĩ! 😜)
 
 Về bản thân tôi:
